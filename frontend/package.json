@@ -1,0 +1,24 @@
+{
+  "name": "firewall-log-monitoring-frontend",
+  "version": "1.0.0",
+  "description": "방화벽 로그 모니터링 웹 어드민 프론트엔드",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.1.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "15.1.5",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17"
+  }
+}
